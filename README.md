@@ -12,7 +12,7 @@ spot to watch the parade and catch all the action. Whether you're a first-time v
 seasoned Mardi Gras veteran, this site is a helpful guide to experiencing the magic of New 
 Orleans. Les Bon Temps Roulent! 
 
-##How to run:
+#How to run:
 
 To run this project on your local machine, follow these steps:
 
@@ -26,7 +26,7 @@ To run this project on your local machine, follow these steps:
 
 Optional deployed link:  https://nola-map.netlify.app 
 
-##Roadmap of Future Improvements:
+#Roadmap of Future Improvements:
 
 My future plans for updating this map based website include incorporating parade routes for all carnival crews throughout the entire Mardi Gras season, and also adding an option for users to view parade routes for other holidays in New Orleans, such as St. Patrick's Day parades. I aim to provide a resource for parade-goers to easily access information on all holiday parades in the city.
 
